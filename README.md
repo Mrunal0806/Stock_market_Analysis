@@ -1,6 +1,4 @@
-Absolutely, Mrunal! Here's a clean and professional `README.md` section you can drop into your repo. It documents your real-time stock prediction pipeline, complete with setup instructions, command sequences, and a project overview.
 
----
 
 ## 📈 Real-Time Stock Prediction Pipeline
 
