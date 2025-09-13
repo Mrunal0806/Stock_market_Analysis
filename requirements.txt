@@ -7,3 +7,5 @@ ta
 streamlit
 confluent-kafka
 python-dateutil
+prophet
+plotly
