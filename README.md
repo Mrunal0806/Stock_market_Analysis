@@ -20,7 +20,7 @@ This project uses **Kafka**, **Docker**, **Prophet/RandomForest**, and **Streaml
 #### **1️⃣ Start Kafka + Zookeeper**
 
 ```powershell
-cd "C:\Users\mruna\OneDrive\Desktop\My Projects\realtime_stock_predictions"
+cd "C:\Users\your_documents_folder\realtime_stock_predictions"
 docker compose up -d
 ```
 
@@ -74,7 +74,7 @@ python src/kafka_producer.py
 Open a new PowerShell window:
 
 ```powershell
-cd "C:\Users\mruna\OneDrive\Desktop\My Projects\realtime_stock_predictions"
+cd "C:\Users\\your_documents_folder\realtime_stock_predictions"
 venv\Scripts\activate
 python src/predictor_stream.py
 ```
@@ -86,7 +86,7 @@ python src/predictor_stream.py
 #### **6️⃣ Launch Streamlit Dashboard (Terminal 3)**
 
 ```powershell
-cd "C:\Users\mruna\OneDrive\Desktop\My Projects\realtime_stock_predictions"
+cd "C:\Users\your_documents_folder\realtime_stock_predictions"
 venv\Scripts\activate
 streamlit run src/streamlit_app.py
 ```
