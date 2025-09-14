@@ -12,7 +12,7 @@ MODEL_PATH = "model/stock_classifier.joblib"
 META_PATH = "model/metadata.json"
 TOPIC_IN = "stock_prices"
 TOPIC_OUT = "stock_predictions"
-BROKER = "localhost:9092"
+BROKER = "localhost:29092"
 
 # ==============================
 # Load Model and Metadata
